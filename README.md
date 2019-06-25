@@ -1,0 +1,1 @@
+A macro for creating JavaScript objects
