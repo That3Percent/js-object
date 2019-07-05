@@ -1,6 +1,6 @@
 [package]
 name = "js-object"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Zac Burns <that3percent@gmail.com>"]
 edition = "2018"
 description = "A macro for creating JavaScript objects"
@@ -17,3 +17,6 @@ maintenance = { status = "actively-developed" }
 [dependencies]
 wasm-bindgen = "0.2.40"
 js-sys = "0.3.11"
+
+[dependencies.js-intern]
+version = "0.3.0"
